@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on procollab<br>🌱 I’m currently learning data science<br>💬 Ask me about join cool startup<br>⚡ Fun fact I hate cats and absolutly love dogs
+🔭 I’m currently working on procollab<br>🌱 I’m currently learning data science<br>💬 Ask me about join crazy startup<br>⚡ Fun fact I hate cats and absolutly love dogs
 
 
 # 💻 Tech Stack:
