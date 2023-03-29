@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on procollab<br>🌱 I’m currently learning data science<br>💬 Ask me about joining crazy startup<br>⚡ Fun fact I hate cats and absolutly love dogs
+Hi! I am Egor Tokarev, a developer and designer. I help businesses create high-quality websites and web applications. For this I work out user experience, design, create back-end and front-end parts of the application, insist on architecture for deployment
 
 
 # 💻 Tech Stack:
