@@ -9,19 +9,29 @@
 ## 💻 Tech Stack:
 
 #### Languages:
+```json
 ["TypeScript", "Golang", "Rust", "Python"]
+```
 
 #### Deployment:
+```json
 ["Vercel", "Netlify", "DigitalOcean", "Firebase", "Docker"]
+```
 
 #### Front-end:
+```json
 ["Angular", "Nuxt", "Vue", "Tailwind"]
+```
 
 #### Back-end:
+```json
 ["Nest", "Mongo", "Postgres", "Redis", "Linux", "FastAPI"]
+```
 
 #### Other tools:
+```json
 ["Figma", "Notion", "Linear", "Discord", "Postman"]
+```
 
 
 ## 🌐 Socials:
