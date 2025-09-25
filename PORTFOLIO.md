@@ -39,7 +39,7 @@ The main challenge was adjusting TLS settings (cipher suites) of requests and ma
 
 **Technologies used:** Go, Prometheus, Grafana, GRPC
 
-<img width="2405" height="1199" alt="image" src="https://github.com/user-attachments/assets/3c0085b9-cd7f-430c-a56b-eddc5cbbcfcf" />
+<img width="2404" height="1199" alt="Frame 198" src="https://github.com/user-attachments/assets/bd1bfc4a-54d2-4485-bce6-c9d892c46c31" />
 
 ---
 
@@ -79,8 +79,15 @@ Despite the fact that my main area of expertise is software development, I also 
 
 Here are some projects that I can showcase
 
+<img width="943" height="628" alt="image" src="https://github.com/user-attachments/assets/99a18575-5c22-48a2-8429-5e058f769131" />
 Redesign of [linear landing page](https://linear.app) [Figma link](https://www.figma.com/design/jvQlj503T1CsqAyzpBLnH7/%D0%95%D0%B3%D0%BE%D1%80-%D0%A2%D0%BE%D0%BA%D0%B0%D1%80%D0%B5%D0%B2---%D0%9B%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3--%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B0%D0%B9%D1%82%D0%B0--Copy-?node-id=2986-115&t=Ko9ous54IT1HM10K-1)
 
+---
+
+<img width="931" height="636" alt="image" src="https://github.com/user-attachments/assets/f7672abe-823c-466a-82e4-299a325feeea" />
 Redesign of [EMAP services page](httsp://epam.com) ([Figma link](https://www.figma.com/design/UXOvm2zc1qILeGSgU1zVqL/%D0%9A%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D1%81%D0%B0%D0%B9%D1%82_-%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B0%D0%B9%D1%82%D0%B0--1.-%D0%92%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5--2.-%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-?node-id=4820-348&t=cfqQ4kOHlBnW2car-1)
 
+---
+
+<img width="1172" height="770" alt="image" src="https://github.com/user-attachments/assets/7df0059e-17f5-4fb7-8b04-dea2606a59bf" />
 Armadion [Figma link](https://www.figma.com/design/BxRHAdlZIVBk9hoY4O03It/armadion?node-id=163-977&t=ToB3d431k2vMDEWK-1)
