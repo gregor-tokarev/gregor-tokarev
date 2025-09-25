@@ -19,7 +19,7 @@ Another challenge was integrating Clerk Auth with a Raycast extension — I fail
 
 ## Cooplay
 [App](https://cooplay.app) for tracking the emotional state of a team, preventing burnouts, and improving overall team vibe. The app is being developed for the EU market.  
-I was the **backend team lead**.  
+I was the **backend teamlead**.  
 
 The biggest challenge was developing algorithms responsible for calculating the overall mental health score of a team member and the whole team.  
 
