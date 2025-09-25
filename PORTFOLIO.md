@@ -1,5 +1,3 @@
-# List of Projects I Can Highlight
-
 ## Cubicdone
 I made a [to-do list app](https://cubicdone.com) for myself because I was unsatisfied with the UX and functionality of other apps on the market.  
 I also published it on [Product Hunt](https://www.producthunt.com/products/cubicdone). The launch didn’t go very well :)  
