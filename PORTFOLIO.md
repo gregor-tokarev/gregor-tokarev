@@ -37,7 +37,7 @@ It consistently handled over **10,000 RPS**.
 
 The main challenge was adjusting TLS settings (cipher suites) of requests and managing semaphores for each proxy so load balancing worked correctly with runtime configuration.  
 
-**Technologies used:** Go, Prometheus, Grafana  
+**Technologies used:** Go, Prometheus, Grafana, GRPC
 
 <img width="2405" height="1199" alt="image" src="https://github.com/user-attachments/assets/3c0085b9-cd7f-430c-a56b-eddc5cbbcfcf" />
 
@@ -79,8 +79,8 @@ Despite the fact that my main area of expertise is software development, I also 
 
 Here are some projects that I can showcase
 
-Linear [Figma link](https://www.figma.com/design/jvQlj503T1CsqAyzpBLnH7/%D0%95%D0%B3%D0%BE%D1%80-%D0%A2%D0%BE%D0%BA%D0%B0%D1%80%D0%B5%D0%B2---%D0%9B%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3--%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B0%D0%B9%D1%82%D0%B0--Copy-?node-id=2986-115&t=Ko9ous54IT1HM10K-1)
+Redesign of [linear landing page](https://linear.app) [Figma link](https://www.figma.com/design/jvQlj503T1CsqAyzpBLnH7/%D0%95%D0%B3%D0%BE%D1%80-%D0%A2%D0%BE%D0%BA%D0%B0%D1%80%D0%B5%D0%B2---%D0%9B%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3--%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B0%D0%B9%D1%82%D0%B0--Copy-?node-id=2986-115&t=Ko9ous54IT1HM10K-1)
 
-Emap [Figma link](https://www.figma.com/design/UXOvm2zc1qILeGSgU1zVqL/%D0%9A%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D1%81%D0%B0%D0%B9%D1%82_-%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B0%D0%B9%D1%82%D0%B0--1.-%D0%92%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5--2.-%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-?node-id=4820-348&t=cfqQ4kOHlBnW2car-1)
+Redesign of [EMAP services page](httsp://epam.com) ([Figma link](https://www.figma.com/design/UXOvm2zc1qILeGSgU1zVqL/%D0%9A%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D1%81%D0%B0%D0%B9%D1%82_-%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B0%D0%B9%D1%82%D0%B0--1.-%D0%92%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5--2.-%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-?node-id=4820-348&t=cfqQ4kOHlBnW2car-1)
 
 Armadion [Figma link](https://www.figma.com/design/BxRHAdlZIVBk9hoY4O03It/armadion?node-id=163-977&t=ToB3d431k2vMDEWK-1)
