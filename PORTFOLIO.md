@@ -11,7 +11,8 @@ Another challenge was integrating Clerk Auth with a Raycast extension — I fail
 
 **Technologies used:** Vue.js, Postgres, TRPC, Drizzle ORM, Lucia Auth  
 
-- [Web app](https://app.cubicdone.com)  
+- [Web app](https://app.cubicdone.com)
+- [source code](https://github.com/gregor-tokarev/cubicdone)
 
 <img width="2803" height="1243" alt="image" src="https://github.com/user-attachments/assets/d16d7923-7da0-4dd4-8636-975a8993557b" />
 
@@ -79,13 +80,13 @@ Despite the fact that my main area of expertise is software development, I also 
 
 Here are some projects that I can showcase
 
-<img width="943" height="628" alt="image" src="https://github.com/user-attachments/assets/99a18575-5c22-48a2-8429-5e058f769131" />
+<img width="1352" height="827" alt="image" src="https://github.com/user-attachments/assets/015fd656-bfba-4398-bc2f-d689731915bb" />
 Redesign of [linear landing page](https://linear.app) [Figma link](https://www.figma.com/design/jvQlj503T1CsqAyzpBLnH7/%D0%95%D0%B3%D0%BE%D1%80-%D0%A2%D0%BE%D0%BA%D0%B0%D1%80%D0%B5%D0%B2---%D0%9B%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3--%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B0%D0%B9%D1%82%D0%B0--Copy-?node-id=2986-115&t=Ko9ous54IT1HM10K-1)
 
 ---
 
 <img width="931" height="636" alt="image" src="https://github.com/user-attachments/assets/f7672abe-823c-466a-82e4-299a325feeea" />
-Redesign of [EMAP services page](httsp://epam.com) ([Figma link](https://www.figma.com/design/UXOvm2zc1qILeGSgU1zVqL/%D0%9A%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D1%81%D0%B0%D0%B9%D1%82_-%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B0%D0%B9%D1%82%D0%B0--1.-%D0%92%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5--2.-%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-?node-id=4820-348&t=cfqQ4kOHlBnW2car-1)
+Redesign of [EMAP services page](https://epam.com) [Figma link](https://www.figma.com/design/UXOvm2zc1qILeGSgU1zVqL/%D0%9A%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D1%81%D0%B0%D0%B9%D1%82_-%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B0%D0%B9%D1%82%D0%B0--1.-%D0%92%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5--2.-%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-?node-id=4820-348&t=cfqQ4kOHlBnW2car-1)
 
 ---
 
