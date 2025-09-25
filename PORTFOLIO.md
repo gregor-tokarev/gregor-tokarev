@@ -77,6 +77,9 @@ We got some downloads from the official Rust package manager ([crates.io](https:
 <img width="1087" height="721" alt="image" src="https://github.com/user-attachments/assets/735b2b37-bbb5-4c0f-9f6d-6ba7fbe2efc3" />
 
 ## Honorable mention
+Despite the fact that my main area of expertise is software development, I also have some experience in the field of UX/UI design.
+
+Here are some projects that I can showcase
 
 Linear [Figma link](https://www.figma.com/design/jvQlj503T1CsqAyzpBLnH7/%D0%95%D0%B3%D0%BE%D1%80-%D0%A2%D0%BE%D0%BA%D0%B0%D1%80%D0%B5%D0%B2---%D0%9B%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3--%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B0%D0%B9%D1%82%D0%B0--Copy-?node-id=2986-115&t=Ko9ous54IT1HM10K-1)
 
