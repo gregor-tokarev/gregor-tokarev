@@ -73,6 +73,8 @@ We got some downloads from the official Rust package manager ([crates.io](https:
 
 **Technologies used:** purly Rust
 
+- [source code](https://github.com/restless-rs/restless)
+
 <img width="1087" height="721" alt="image" src="https://github.com/user-attachments/assets/735b2b37-bbb5-4c0f-9f6d-6ba7fbe2efc3" />
 
 ## Honorable mention
