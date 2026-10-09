@@ -4,36 +4,3 @@
 <img src="https://media.giphy.com/media/VSX5MvDEK42WDz2Qcj/giphy.gif" height="20px"> UX matters more than the idea. <br>
 
 <img src="https://media.giphy.com/media/ah7KwjMNJlhtK/giphy.gif"/>
-
-
-## 💻 Tech Stack:
-
-#### Languages:
-```json
-["TypeScript", "Golang", "Rust", "Python"]
-```
-
-#### Deployment:
-```json
-["Vercel", "Netlify", "DigitalOcean", "Firebase", "Docker"]
-```
-
-#### Front-end:
-```json
-["Angular", "Nuxt", "Vue", "Tailwind"]
-```
-
-#### Back-end:
-```json
-["Nest", "Mongo", "Postgres", "Redis", "Linux", "FastAPI"]
-```
-
-#### Other tools:
-```json
-["Figma", "Notion", "Linear", "Discord", "Postman"]
-```
-
-
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gregortokarev)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/gregor_tokarev)
